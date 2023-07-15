@@ -3,4 +3,4 @@ Raspberry Pico Wave Oscillator Projects
 
 ### PWM oscillator [project](https://github.com/devklee/odnakosynth-picoosc/tree/main/pwmosc)
 
-Saw and Rechtangle wave are generated with PWM. The circuit is also included.
+Sawtooth and square wave are generated with PWM on different pins. The circuit is also included.
