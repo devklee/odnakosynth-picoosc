@@ -1,6 +1,6 @@
 # PWM with 4 bit R-2R DAC oscillator
 
-Sawtooth saw is generated with 4 bit R-2R DAC. Signal is smoothed with RC filter. Callback function is called via pin IRQ. Pin IRQ is controlled by pin PWD. The circuit is also included.
+Sawtooth is generated with 4 bit R-2R DAC. Signal is smoothed with RC filter. Callback function is called via pin IRQ. Pin IRQ is controlled by pin PWD. The circuit is also included.
 
 Scope
 
@@ -9,6 +9,8 @@ Scope
 Circuit
 
 ![circuit](pwmr2r-circuit.jpg)
+
+R = 1 kOm
 
 A4
 
