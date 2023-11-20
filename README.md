@@ -14,6 +14,10 @@ Sawtooth saw is generated with 4 bit R-2R DAC. Signal is smoothed with RC filter
 
 2x MCP4822 with 4x 12-bit DAC chanel. The circuit is also included.
 
+### Frequency Counter and more [project](https://github.com/devklee/odnakosynth-picoosc/tree/main/freq-counter)
+
+Frequency Counter, MIDI USB and serial, VCO. The circuit is also included.
+
 ## References
 
 https://blog.thea.codes/the-design-of-the-juno-dco/
