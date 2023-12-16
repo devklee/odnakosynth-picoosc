@@ -16,6 +16,10 @@ This is a test solution. It includes the following:
     * PuTTY output/inpus (need Pico Probe)
     * SPI
 
+K-106 [jpg](pdf/K-106-foto.jpg)
+
+![foto](pdf/K-106-foto2.jpg)
+
 
 Various parts are not 100% complete. It is an attempt to freeze a state and make it available to whoever is interested.
 
